@@ -1,0 +1,5 @@
+{
+  "name": "Randy's Travel Orchestrator",
+  "description": "An orchestrated multi-agent system for planning travel activities, permits, food, and hotels with real-time search grounding.",
+  "requestFramePermissions": []
+}
